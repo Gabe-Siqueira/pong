@@ -1,2 +1,3 @@
-# pong
-Pong com Javascript - Curso Alura
+# Pong
+Pong com Javascript <br />
+Utilize site: https://editor.p5js.org/
