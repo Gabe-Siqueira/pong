@@ -1,5 +1,5 @@
 # Pong
-Pong com Javascript <br />
+Jogo Pong com Javascript - Curso Alura <br />
 Utilize site: https://editor.p5js.org/
 <br />
 Link do Jogo:
